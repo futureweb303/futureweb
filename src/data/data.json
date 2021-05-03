@@ -1,0 +1,158 @@
+{
+    "Header": {
+
+        "title": "Web Developement",
+        "paragraph": "Creative Web Designing, Mobile Application, Maintenace and Support"
+
+    },
+    "About": {
+        "paragraph": "WebFuture is a Jaipur, India based company in business of delivering professional services and software solutions. We provide services in development, customization and implementation of various proprietary and open source platforms and applications. We have the technological capabilities to build systems that operate efficiently, establishing the digital infrastructure required to deliver innovation and create high-performance businesses. Governed by its core values since its inception, WebFuture is committed to quality and helping its customers. Our people are driven by the core values of the company. Learn more about the company leadership and its people.",
+        "Why": [
+            "Simple to Edit Your Website Content, no technical knowledge required.",
+            " Add and format a web page, photo, client logo or video in seconds."
+        ],
+        "Why2": [
+            " Wide range of features and module available as per request",
+            "Cost effective and quality solution"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-wordpress",
+            "name": "JAVA DEVELOPING",
+            "text": "Java is used worldwide in almost all the spheres from supercomputers, cell phones and laptops to datacenters and game consoles. Java is highly flexible, secure and platform-agnostic. WebFuture has been offering quality enterprise Java development services to our global clientele. We help you design and deploy Java-based applications improving the agility, usability, and quality of IT systems."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": ".NET DEVELOPING",
+            "text": "WebFuture is an experienced ASP.NET Development Company that has ample expertise and proficiency in ASP.NET Development. we have completed several projects related to ASP.NET Development amongst others. Our experience as an ASP.NET Development Company spans the entire spectrum of ASP.NET Development. This includes MVC development, LINQ, Entity Framework, and HTML responsive layout as well."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "MOBILE APPS DEVELOPING",
+            "text": "WebFuture helps you turn your idea into apps, solve problems and make your app a potential goldmine. We provide the premier business solutions with our Mobile OS Expertise, Cross-platform Mobile app development Services and hiring solutions. We have evolved into a one stop destination for mobile application creation to the final step of app marketing."
+        }   
+
+    ],
+     "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"I am very happy with Dimension India for their excellent service, responsiveness and subject matter expertise...\"",
+            "name": "Satyam Chaturvedi"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"We are now having record website sales month after month and we've only just begun.\"",
+            "name": "Vijay Gurnani"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"I now feel I have the tools and support to really help me drive my business forward.\"",
+            "name": "Shubham Acharya"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Very impressive numbers in terms of our database numbers, website traffic and direct contacts\"",
+            "name": "Satyajeet Sarkar"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"I now feel I have the tools and support to really help me drive my business forward.\"",
+            "name": "Dhananjay Mishra"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Piyush Chaturvedi",
+            "job": "Full Stack Devolper"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Sumit Roy",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Anuj Chaturvedi",
+            "job": "Backend Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Deependra Rana",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+       
+        "phone": "+91 7976161649, +91 7020440798",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-magic",
+            "title": "Website / Graphic Design",
+            "text": "UX Design, UI Design, Responsive websites and Web Design"
+        },
+        {
+            "icon": "fa fa-mobile",
+            "title": "Mobile Apps Development",
+            "text": "Native mobile apps for iOS and Android, Enterprise mobility app development"
+        },
+        {
+            "icon": "fa fa-tasks",
+            "title": "Software Development",
+            "text": "Custom web applications and product development, websites and portals"
+        },
+        {
+            "icon": "fa fa-shopping-cart",
+            "title": "e-Commerce Development",
+            "text": "Developing Custom e-commerce solutions and building Magento stores"
+        }
+    ],
+    "Pricings":[{
+        "level": "Beginner",
+        "price": "Rs. 835/- per month",
+        "domain": "Free domain",
+        "page": "3 Pages",
+        "ads": "No ads (Third party ads are removed)",
+        "optimize": "Mobile website",
+        "seo": "-",
+        "certificate": "-",
+        "protection": "-",
+        "storage": "1 GB Storage",
+        "server": "server 99% up guarantee",
+        "mail": "-",
+        "support": "Email Support"
+        
+        
+    },
+    {
+        "level": "Runner",
+        "price": "Rs. 1,666/- per month",
+        "domain": "Free domain",
+        "page": "10 Pages",
+        "ads": "No ads (Third party ads are removed)",
+        "optimize": "Mobile website",
+        "seo": "SEO",
+        "certificate": "SSL Certificate",
+        "protection": "Password protected pages",
+        "storage": "10 GB Storage",
+        "server": "server 99% up guarantee",
+        "mail": "1 Custom Email address",
+        "support": "Email Support + Phone Support"
+    },
+    {
+        "level": "Pro",
+        "price": "Rs. 2500/- per month",
+        "domain": "Free domain",
+        "page": "Unlimited Pages",
+        "ads": "No ads (Third party ads are removed)",
+        "optimize": "Mobile website",
+        "seo": "SEO",
+        "certificate": "SSL Certificate",
+        "protection": "Password protected pages",
+        "storage": "Unlimited Storage",
+        "server": "server 99% up guarantee",
+        "mail": "10 Custom Email address",
+        "support": "Email Support + Phone Support"
+    }]
+}
